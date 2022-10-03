@@ -1,0 +1,10 @@
+.formContainer {
+    background-color: #080420;
+    padding: 1rem;
+    margin: 2rem auto;
+    width: 50rem;
+    max-width: 80%;
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: 0 2px 8px #fff;
+}

@@ -1,0 +1,33 @@
+.inputForm__Controls {
+    margin-bottom: 2rem;
+}
+
+.inputForm__Control label {
+    color: #fff;
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin: 1rem auto;
+    display: block;
+}
+
+.inputForm__Control input {
+    font-size: 1.5rem;
+    padding: 0.5rem;
+    border-radius: 6px;
+    border: 4px solid #ccc;
+    width: 20rem;
+    max-width: 50%;
+}
+
+.inputForm__actions button {
+    cursor: pointer;
+    padding: 1rem 2rem;
+    border: 1px solid #40005d;
+    background-color: #40005d;
+    font-size: larger;
+    color: white;
+    width: 30%;
+    transform: translate(2%);
+    border-radius: 12px;
+    margin-right: 1rem;
+}
